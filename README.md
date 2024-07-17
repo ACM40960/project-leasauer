@@ -1,2 +1,43 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PwK3l629)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15124491&assignment_repo_type=AssignmentRepo)
+# Project in maths modelling: Predict the 5000m sprint winner of the oncomming 2024 Paris Olympic games.
+Author: Lea Sauer & Agathe Vianey-Liaud
+
+## Basic overview
+Aim : Prediction of the 5000m men’s sprint results in the Olympics 2024
+
+
+## Project stucture
+### Part1: Tweets analysis
+* Data collection
+* Data processing
+* ...
+
+### Part2: Feature analysis - past performances + simulated features
+* Data collection
+* Data processing
+* Data simulation - Monte Carlo technique
+* Data analysis and vizualisation
+* Prediction
+
+## Set up
+### Installation
+1. Clone the repository
+```ruby
+git clone https://github.com/project-leasauer
+```
+
+2. Create and activate a virtual environment:
+```ruby
+python3 -m venv venv
+source venv/bin/activate
+```
+
+
+### Contribution guidelines
+```ruby
+  git checkout -b {your-name/feature}
+  git add .
+  git commit -m "New Feature"
+  git push --set-upstream origin '{your-name/feature}'
+  git checkout main
+  git pull #after PR gets merged into main branch
+```
